@@ -1,8 +1,12 @@
 Hey! This is the official guide to my game.
 
-It is divided into two parts: a walkthrough and a technical explanation of how the code works. I will start with the walkthrough.
+To run the game, download the Journey_to_Aarden.jar file (located at out/artifacts/Journey_to_Aarden_jar), and then run it with the following command line prompt:
 
-THE APP IS IN THE AdventureUI.scala
+java -jar <location of the jar Journey_to_Aarden.jar file>
+
+
+The guide is divided into two parts: a walkthrough and a technical explanation of how the code works. I will start with the walkthrough.
+
 
 1. Walkthrough.
 
