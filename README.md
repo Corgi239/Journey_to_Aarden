@@ -1,14 +1,17 @@
+# Introduction
+
 Hey! This is the official guide to my game.
 
 To run the game, download the Journey_to_Aarden.jar file (located at out/artifacts/Journey_to_Aarden_jar), and then run it with the following command line prompt:
 
-java -jar <location of the jar Journey_to_Aarden.jar file>
+`java -jar <location of the jar Journey_to_Aarden.jar file>`
 
 
 The guide is divided into two parts: a walkthrough (with some spoilers) and a technical explanation of how the code works. I will start with the walkthrough.
 
 
-1. Walkthrough.
+# Walkthrough
+
 ```
 
 
@@ -44,7 +47,7 @@ To get ending 4, accept the demons's help 3 times.
 
 This is pretty much it.
 
-2. Technical comment
+# Technical comment
 
 There are a few key decisions I made that changed the way the game works compared to the template adventure offered in the course materials.
 First of all, I got rid of the Action class. In hindsight, I could have kept it, but imo it forces all locations to feel kinda same-y, which I ideally would like to avoid.
