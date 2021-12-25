@@ -9,6 +9,7 @@ The guide is divided into two parts: a walkthrough (with some spoilers) and a te
 
 
 1. Walkthrough.
+```
 
 
                                                (mysterious path)
@@ -19,7 +20,7 @@ The guide is divided into two parts: a walkthrough (with some spoilers) and a te
 MAP:            RIVERSIDE -----> PIER ------------> AARDEN -------------> TEMPLE
                                               (gates of Aarden)
 
-
+```
 The game starts at the riverside, from which you can go directly to the pier. There you can have a chat with the fisherman.
 If you ask the fisherman a phrase that contains "Aarden", "directions" or "city", he'll tell you how to get to Aarden.
 You can also ask him about his fishing tales, and he we will tell you an insightful story that actually spoils the endings!
